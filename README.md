@@ -1,5 +1,4 @@
-## Hi there 👋
-\\\# 👋 Hey, I'm Prateek Katare
+## 👋 Hey, I'm Prateek Katare
 
 🧠 Product Engineer • 🎯 Solo SaaS Builder • 🌏 Remote-First Maker  
 I build AI-powered tools, frontends, and automation workflows that solve real-world problems for solopreneurs and startups.
@@ -53,8 +52,8 @@ End-to-end AI launch agent: prepares launch plan, content, landing page + distri
 
 ## 📬 Connect with Me
 
-- 🔗 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🧵 X/Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🔗 Portfolio: [prateekkatare](https://prateekkatare.com)
+- 🧵 X/Twitter: [PrateekKatare](https://twitter.com/PrateekKataree)
 - 📧 Reach out for: remote roles, collabs, or product feedback
 
 ---
