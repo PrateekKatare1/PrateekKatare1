@@ -14,22 +14,6 @@ I build AI-powered tools, frontends, and automations that help solopreneurs, cre
 
 ---
 
-## 🧪 Projects I'm Working On
-
-### 🔹 [ColdWise AI](https://coldwiseai.com)  
-> AI-powered cold outreach engine that researches leads, writes high-converting cold emails, and auto-sends with Zapier.
-
-### 🔹 ThreadMancer  
-> AI content and launch engine for X (Twitter), newsletters, and product launches.
-
-### 🔹 AutoBrief Agent  
-> Converts 1-line inputs into strategic client briefs or decks using GPT + automation.
-
-### 🔹 LaunchAgent  
-> A full AI-powered launch assistant that handles content, timeline, landing page, and distribution.
-
----
-
 ## 🛠️ Tech & Tools I Use
 
 ### 💻 Technical Stack
