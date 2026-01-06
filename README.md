@@ -1,54 +1,95 @@
+# 👋 Hi, I'm Prateek Katare
 
-# 👋 Hey, I'm Prateek Katare
-
-🧠 Product Engineer • 🎯 Solo SaaS Builder • 🌍 Remote-First Maker  
-I build AI-powered tools, frontends, and automations that help solopreneurs, creators, and lean teams move faster with less.
-
----
-
-## 🚀 Current Focus
-
-- 🧩 Building AI agents + automations with GPT-4, LangChain, and Zapier  
-- 🛠️ Designing and developing frontends using React, Tailwind, Framer  
-- 📦 Shipping microproducts, landing pages, and MVPs in record time
+🚀 **Product Engineer | Design Engineer | Solo SaaS Builder**  
+🌍 Targeting **remote-first global startups (US / EU)**  
+🧠 First-principles thinker | Build-in-public | Calm but relentless execution
 
 ---
 
-## 🛠️ Tech & Tools I Use
+## 🧭 About Me
 
-### 💻 Technical Stack
+I’m a mechanical engineer by degree, but **2026 is my hard pivot year into tech**.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=for-the-badge)
+I’m transitioning into **Product Engineering / Design Engineering / Founder’s Office roles**, while simultaneously building **AI-powered SaaS products as a solo founder**.
 
-### 🎨 Design Tools
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Framer](https://img.shields.io/badge/-Framer-black?logo=framer&logoColor=white&style=for-the-badge)
-
-### 🤖 AI & Automation Tools
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-0B5FFF?style=for-the-badge)
-![Make.com](https://img.shields.io/badge/-Make.com-purple?style=for-the-badge)
-![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white&style=for-the-badge)
+I believe in:
+- **Shipping > polishing**
+- **Distribution as a product**
+- **Leverage over effort**
+- **Calm systems, not chaos**
 
 ---
 
-## 🧠 Mindset & Meta
+## 🎯 2026 Goals (Non-Negotiable)
 
-- 🥷 High-agency builder with fast-iteration mindset  
-- 📦 Believer in "Build once, automate forever"  
-- 🧭 Applying first principles to ship lean MVPs + experiments  
-- 🚢 Working in public on X & shipping consistently
+- 💼 **$50k+/year remote tech role** (Product Engineer / Frontend / Founder's Office)
+- 🧩 **AI SaaS generating $10k/month**
+- 🧠 Strong personal brand on X (10k+ builders & founders)
+- 🏗️ Multiple end-to-end shipped products (not demos)
+- 🧘 Discipline-driven lifestyle (gym, reflection, deep work)
+
+---
+
+## 🛠️ Tech & Product Stack
+
+**Frontend**
+- Next.js, React, TypeScript
+- Tailwind CSS, Framer
+- Figma (UX, landing pages)
+
+**Backend / Infra**
+- Supabase (Auth, DB, RLS)
+- Firebase
+- Vercel (Cron, Deployments)
+
+**AI & Automation**
+- OpenAI APIs
+- LangChain
+- Hugging Face
+- Zapier / Make
+- Agentic workflows
+
+**Payments & SaaS Ops**
+- Polar.sh
+- Subscription access control
+- Analytics & retention loops
+
+---
+
+## 🧠 Product Philosophy
+
+I design products where **distribution is baked in**, not added later.
+
+---
+
+## 🚢 Shipped & Building Projects
+
+### 🔹 ContentBlyssHQ *(in progress)*
+**Personal AI copywriter + distribution engine**
+- Upload drafts → AI converts into tweets, threads, newsletters
+- Media attachment + auto-scheduling (X, Substack)
+- Content library + analytics
+- Built in public, monetized early
+
+### 🔹 ColdWise AI
+AI-powered cold outreach & conversion engine for solopreneurs.
+
+### 🔹 Agentic AI Projects
+
+---
+
+## 📈 What I’m Looking For
+
+- Remote-first startups
+- Product-driven teams
+- High ownership, low bureaucracy
+- Builders > talkers
+- Calm execution environments
+
+Open to:
+- Product Engineer
+- Frontend / Design Engineer
+- Founder’s Office / Early Team roles
 
 ---
 
