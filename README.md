@@ -1,102 +1,52 @@
-# 👋 Hi, I'm Prateek Katare
+# Prateek Katare
 
-🚀 **Product Engineer | Design Engineer | Solo SaaS Builder**  
-🌍 Targeting **remote-first global startups (US / EU)**  
-🧠 First-principles thinker | Build-in-public | Calm but relentless execution
+GTM Engineer. Building the evidence before the title.
 
----
-
-## 🧭 About Me
-
-I’m a mechanical engineer by degree, but **2026 is my hard pivot year into tech**.
-
-I’m transitioning into **Product Engineering / Design Engineering / Founder’s Office roles**, while simultaneously building **AI-powered SaaS products as a solo founder**.
-
-I believe in:
-- **Shipping > polishing**
-- **Distribution as a product**
-- **Leverage over effort**
-- **Calm systems, not chaos**
+I build and instrument growth systems for SaaS — activation funnels, PLG motion analysis, RevOps tooling. Experiments get baselines, not hunches. Based in India. Looking for remote GTM / Growth / RevOps roles at Seed–Series B companies.
 
 ---
 
-## 🎯 2026 Goals (Non-Negotiable)
+## Stack
 
-- 💼 **$50k+/year remote tech role** (Product Engineer / Frontend / Founder's Office)
-- 🧩 **AI SaaS generating $10k/month**
-- 🧠 Strong personal brand on X (10k+ builders & founders)
-- 🏗️ Multiple end-to-end shipped products (not demos)
-- 🧘 Discipline-driven lifestyle (gym, reflection, deep work)
-
----
-
-## 🛠️ Tech & Product Stack
-
-**Frontend**
-- Next.js, React, TypeScript
-- Tailwind CSS, Framer
-- Figma (UX, landing pages)
-
-**Backend / Infra**
-- Supabase (Auth, DB, RLS)
-- Firebase
-- Vercel (Cron, Deployments)
-
-**AI & Automation**
-- OpenAI APIs
-- LangChain
-- Hugging Face
-- Zapier / Make
-- Agentic workflows
-
-**Payments & SaaS Ops**
-- Polar.sh
-- Subscription access control
-- Analytics & retention loops
+**Build** — Next.js · Python · Supabase  
+**Scrape** — Cheerio · Apify  
+**Dev** — Cursor + Claude Code  
+**Instrument** — PostHog  
+**Deploy** — Vercel
 
 ---
 
-## 🧠 Product Philosophy
+## How I think
 
-I design products where **distribution is baked in**, not added later.
-
----
-
-## 🚢 Shipped & Building Projects
-
-### 🔹 ContentBlyssHQ *(in progress)*
-**Personal AI copywriter + distribution engine**
-- Upload drafts → AI converts into tweets, threads, newsletters
-- Media attachment + auto-scheduling (X, Substack)
-- Content library + analytics
-- Built in public, monetized early
-
-### 🔹 ColdWise AI
-AI-powered cold outreach & conversion engine for solopreneurs.
-
-### 🔹 Agentic AI Projects
+Ship first. Instrument second.  
+No experiment without a baseline — Supabase as the discipline mechanism.  
+Work that looks productive but doesn't move a metric gets cut.  
+The job search is a GTM campaign. Running it structurally.
 
 ---
 
-## 📈 What I’m Looking For
+## Projects
 
-- Remote-first startups
-- Product-driven teams
-- High ownership, low bureaucracy
-- Builders > talkers
-- Calm execution environments
+### [PLG Scanner](https://plg-scanner.prateekkatare.com/scan)
+Paste any SaaS URL. Get a structured GTM teardown.
 
-Open to:
-- Product Engineer
-- Frontend / Design Engineer
-- Founder’s Office / Early Team roles
+Motion classification (PLG / Hybrid / Sales-Led), aha moment hypothesis, activation sequence, growth loop, and the biggest drop-off point — scraped from page source and processed through Claude. JS-rendered sites are flagged low-confidence until Apify rolls in.
+
+Built in a day. Shareable slug URLs as the viral mechanism. Email gate at 40% of content, signal teaser above the fold to close the curiosity gap. Experiment #1 live: does the teaser lift email capture rate? Baseline recorded. Measuring.
+
+`Next.js` `Cheerio` `Claude API` `Supabase` `PostHog` `Vercel`
 
 ---
 
-## 📬 Connect with Me
+### [Koven](https://trykoven.com)
+Paste your GitHub URL, your X handle, and your live product link. Get a designed case study in five minutes.
 
-- 🔗 Portfolio: [prateekkatare](https://prateekkatare.com)
-- 🧵 X/Twitter: [PrateekKatare](https://twitter.com/PrateekKataree)
-- 📧 Reach out for: remote roles, collabs, or product feedback
+Koven reads your commit history, your build-in-public posts, and your product metadata — then writes the story of what you actually shipped. Not a template. Built from your reality. For developers who've been sending GitHub links when someone important asks to see their work.
+
+`Next.js` `Claude API` `Supabase` `Vercel`
 
 ---
+
+## Find me
+
+[prateekkatare.com](https://prateekkatare.com) · [X @PrateekKataree](https://x.com/PrateekKataree)
